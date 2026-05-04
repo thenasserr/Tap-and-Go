@@ -1,6 +1,6 @@
 //
 //  AuthResponseDTO.swift
-//  Meal Time
+//  Tap and Go
 //
 //  Created by Ibrahim Nasser Ibrahim on 17/04/2026.
 //
